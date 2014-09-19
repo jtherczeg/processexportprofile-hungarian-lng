@@ -1,0 +1,126 @@
+{
+    "file": "site\\modules\\ProcessExportProfile\\ProcessExportProfile.module",
+    "textdomain": "site--modules--processexportprofile--processexportprofile-module",
+    "translations": {
+        "f7c752bca177dd1d427d340dde5e6786": {
+            "text": "A webhelyprofil haszn\u00e1lat\u00e1hoz m\u00e1solja\/bontsa ki a f\u00e1jlokat a ProcessWire \u00faj, nem telep\u00edtett p\u00e9ld\u00e1ny\u00e1nak gy\u00f6k\u00e9rk\u00f6nyvt\u00e1r\u00e1ban a [dir] k\u00f6nyvt\u00e1rba."
+        },
+        "5fa20004b9ab642b2366461759c3bf95": {
+            "text": "A ProcessWire telep\u00edt\u0151 a fut\u00e1sakor telep\u00edt\u00e9si lehet\u0151s\u00e9gk\u00e9nt fogja \u00e9szlelni ezt a profilt."
+        },
+        "cedff39c61ad994b4a9d3267dd6d83e1": {
+            "text": "Miut\u00e1n v\u00e9gzett itt a f\u00e1jlokkal, hely megtakar\u00edt\u00e1sa v\u00e9gett t\u00e1vol\u00edtsa el \u0151ket."
+        },
+        "1063e38cb53d94d386f21227fcd84717": {
+            "text": "Elt\u00e1vol\u00edt\u00e1s"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Folytat\u00e1s"
+        },
+        "3523a8abf2e798f52de0d5c6041376df": {
+            "text": "Megt\u00f6rt\u00e9nt a webhelyprofil export\u00e1l\u00e1sa!"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "N\u00e9v"
+        },
+        "36448c9d754b96a4b6f4393df1e7f28c": {
+            "text": "A profil alfanumerikus karaktereket tartalmaz\u00f3 r\u00f6vid neve."
+        },
+        "c95c8ddbba36a0e3134bee0bcb4305a6": {
+            "text": "P\u00e9ld\u00e1ul: sajat-profil"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "C\u00edm"
+        },
+        "188c365f1520531a0f24aef1c05612ed": {
+            "text": "A profil ember \u00e1ltal olvashat\u00f3 c\u00edme."
+        },
+        "50e5adead4d7c057b50a0ec1c5b1fd40": {
+            "text": "P\u00e9ld\u00e1ul: Saj\u00e1t profil"
+        },
+        "290612199861c31d1036b185b4e69b75": {
+            "text": "\u00d6sszegz\u00e9s"
+        },
+        "4cb557f46673a6eccdba0c18676c339f": {
+            "text": "A profil r\u00f6vid le\u00edr\u00e1sa (egy mondat aj\u00e1nlott)."
+        },
+        "5f7c955f5dc9431fc35b1dff90fd6f8d": {
+            "text": "K\u00e9perny\u0151felv\u00e9tel"
+        },
+        "45e5341c48138765856fd18287b05ace": {
+            "text": "Az ide\u00e1lis sz\u00e9less\u00e9g 760 k\u00e9ppont, de nagyobb is j\u00f3. A magass\u00e1g nem \u00e9rdekes."
+        },
+        "4e811c1945507f7e7f6f7ff153948d75": {
+            "text": "A profil c\u00e9lhelye"
+        },
+        "186ff86b5775b753b6b6d410e4ba5773": {
+            "text": "ZIP-f\u00e1jl\/let\u00f6lt\u00e9s"
+        },
+        "f9e22a62582c0f4462c7207f46f4b5d5": {
+            "text": "A kiszolg\u00e1l\u00f3 k\u00f6nyvt\u00e1ra"
+        },
+        "41710ae828a91d9a849711dddd7976af": {
+            "text": "Ha ZIP-f\u00e1jlba export\u00e1lja a f\u00e1jlokat, akkor az export\u00e1l\u00e1s befejez\u00e9se ut\u00e1n le tudja t\u00f6lteni. Ha a kiszolg\u00e1l\u00f3 egyik k\u00f6nyvt\u00e1r\u00e1ba export\u00e1lja, akkor a kiszolg\u00e1l\u00f3n l\u00e9v\u0151 f\u00e1jlokat kedvenc \u00e1tviteli eszk\u00f6z\u00e9vel (FTP, stb.) tudja m\u00e1solni."
+        },
+        "30d11f32a4819b63efaea992b4c0eb0d": {
+            "text": "Ha kiv\u00e9telesen nagy a webhelye, akkor a ZIP-f\u00e1jl lehet\u0151s\u00e9g j\u00f3val tov\u00e1bb tarthat, vagy nem is lehets\u00e9ges."
+        },
+        "06958a9fc6f20cfd376a1afce7ff5ca2": {
+            "text": "Konfigur\u00e1ci\u00f3s tulajdons\u00e1gok"
+        },
+        "db1f0d8facbf69f6f223221a8736b074": {
+            "text": "Ennek a webhelynek a k\u00f6vetkez\u0151, egyedi konfigur\u00e1ci\u00f3s tulajdons\u00e1gai tal\u00e1lhat\u00f3k. Jel\u00f6lje be azoknak a tulajdons\u00e1goknak a jel\u00f6l\u0151n\u00e9gyzeteit, melyeket bele k\u00edv\u00e1n venni az export\u00e1lt profilba."
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Tulajdons\u00e1g"
+        },
+        "d5d9036eb235553b4e2c145c5b9382b3": {
+            "text": "Export\u00e1l\u00e1s ind\u00edt\u00e1sa"
+        },
+        "0e4d1441f1350e7c5bbf2894626ec156": {
+            "text": "M\u00e1r l\u00e9tezik egy telep\u00edt\u00e9si profil"
+        },
+        "8fec678d9ccef5ac80b7a177b30d229b": {
+            "text": "A folytat\u00e1s el\u0151tt kattintson az al\u00e1bbi gombra az elt\u00e1vol\u00edt\u00e1s\u00e1hoz."
+        },
+        "5be0e6e55f9a55d2cf320fd9688debdd": {
+            "text": "A gombra kattint\u00e1s ut\u00e1n megkezd\u0151dik az adatb\u00e1zis export\u00e1l\u00e1sa. Legyen t\u00fcrelemmel! A webhely m\u00e9ret\u00e9t\u0151l f\u00fcgg\u0151en id\u0151t vehet ig\u00e9nybe."
+        },
+        "3135485a0b09e9525ed08e7fd2ffc4b3": {
+            "text": "Az adatb\u00e1zis export\u00e1l\u00e1sa megt\u00f6rt\u00e9nt."
+        },
+        "fb7a8ec68e50ec472c4521946b691b71": {
+            "text": "A k\u00f6vetkez\u0151 l\u00e9p\u00e9sben ker\u00fcl sor a webhely \u00f6sszes f\u00e1jlj\u00e1nak m\u00e1sol\u00e1s\u00e1ra\/archiv\u00e1l\u00e1s\u00e1ra."
+        },
+        "96101ca22dc715bae2350b5502da9b36": {
+            "text": "A program nem fog semmit m\u00f3dos\u00edtani a jelenlegi webhelyen. Ha a helynek sok f\u00e1jlja van, akkor eltarthat egy ideig, ez\u00e9rt legyen t\u00fcrelemmel."
+        },
+        "da7c7bc0cf43034628b22d0a47879a3a": {
+            "text": "A l\u00e9tez\u0151 profil elt\u00e1vol\u00edtva"
+        },
+        "b365b10b16e0f3abb3bd2a66ba04a73a": {
+            "text": "Hiba a l\u00e9tez\u0151 webhelyprofil elt\u00e1vol\u00edt\u00e1sakor"
+        },
+        "2604dd71a8edd6b8814d54d166efa009": {
+            "text": "A fenti k\u00f6nyvt\u00e1r teljes tartalm\u00e1t kedvenc f\u00e1jl\u00e1tviteli eszk\u00f6z\u00e9vel (FTP, SCP, rsync, stb.) m\u00e1solja a m\u00e1sik helyre."
+        },
+        "67bd7552b5e78367e754f589086d4a81": {
+            "text": "Hozz\u00e1adva %d sablon- \u00e9s modulf\u00e1jl a ZIP-arch\u00edvumhoz"
+        },
+        "f5d19a4b0aa10250f06215f0121604db": {
+            "text": "Hozz\u00e1adva %d eszk\u00f6zf\u00e1jl a ZIP-arch\u00edvumhoz"
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Let\u00f6lt\u00e9s"
+        },
+        "4ff16e1c94cd8021adc890c044f47a1e": {
+            "text": "Nem siker\u00fclt a ZIP-f\u00e1jl l\u00e9trehoz\u00e1sa. Pr\u00f3b\u00e1lkozzon ink\u00e1bb a kiszolg\u00e1l\u00f3 k\u00f6nyvt\u00e1r\u00e1ba val\u00f3 ment\u00e9ssel."
+        },
+        "1a482824509122c4e8047732af0691ae": {
+            "text": "A profil konfigur\u00e1ci\u00f3s f\u00e1jlj\u00e1nak lemezre \u00edr\u00e1sa megt\u00f6rt\u00e9nt: %s"
+        },
+        "41b44eae092ccf545c818ec76ebb1c42": {
+            "text": "Elt\u00e1vol\u00edtja most a profilt?"
+        }
+    }
+}
